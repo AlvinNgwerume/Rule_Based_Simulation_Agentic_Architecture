@@ -10,17 +10,6 @@ Enterprise Account Executives and Customer Success teams often drown in unstruct
 This repository showcases an **agentic architecture** that automates this entire pipeline—turning noisy customer data into precise, executive-ready account briefs.
 
 ---
-
-## 🔄 Workflow Architecture
-
-```mermaid
-graph TD
-    A[Unstructured Customer Signals] --> B[Agent 1: Signal Triage]
-    B --> C[Agent 2: MEDDPICC Mapping]
-    C --> D[Agent 3: Briefing Synthesis]
-    D --> E[Final C-Suite Briefing]
-<hr>
-
 Target Account: Tier-1 Financial Services
 
 Identified Risk Signals: Escalated ticket volume spike, outage sentiment mentions, regulatory audit exposure.
@@ -35,3 +24,11 @@ Recommended Action: Deploy technical mitigation brief to CISO and schedule execu
 
 🚀 How to View & Run the Simulation
 You can inspect the complete logic and run the simulation interactively without any local setup using Google Colab:https://colab.research.google.com/drive/1IeYfEip0dfiYvv4ddBt5NcD1eTE286so?usp=sharing
+## 🔄 Workflow Architecture
+
+```mermaid
+graph TD
+    A[Unstructured Customer Signals] --> B[Agent 1: Signal Triage]
+    B --> C[Agent 2: MEDDPICC Mapping]
+    C --> D[Agent 3: Briefing Synthesis]
+    D --> E[Final C-Suite Briefing]
