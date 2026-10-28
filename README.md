@@ -1,4 +1,3 @@
-# Rule_Based_Simulation_Agentic_Architecture
 # GTM Agentic Architecture: Automated Risk Triage & MEDDPICC Synthesis
 
 A multi-agent GTM simulation modeling how unstructured customer risk signals are triaged, mapped to MEDDPICC frameworks, and synthesized into C-suite briefing reports for Enterprise Account Executives.
