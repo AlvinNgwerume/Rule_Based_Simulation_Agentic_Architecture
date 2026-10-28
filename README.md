@@ -19,18 +19,3 @@ graph TD
     B --> C[Agent 2: MEDDPICC Mapping]
     C --> D[Agent 3: Briefing Synthesis]
     D --> E[Final C-Suite Briefing]
-📋 Sample Generated Output (C-Suite Briefing)
-Target Account: Tier-1 Financial Services
-
-Identified Risk Signals: Escalated ticket volume spike, outage sentiment mentions, regulatory audit exposure.
-
-MEDDPICC Mapping Status:
-
-Economic Buyer: ⚠️ Unconfirmed (Requires multi-threading)
-
-Decision Criteria: ✅ Mapped to security compliance requirements
-
-Recommended Action: Deploy technical mitigation brief to CISO and schedule executive alignment call within 24 hours.
-
-🚀 How to View & Run the Simulation
-You can inspect the complete logic and run the simulation interactively without any local setup using Google Colab: https://colab.research.google.com/drive/1IeYfEip0dfiYvv4ddBt5NcD1eTE286so?usp=sharing
